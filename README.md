@@ -1,8 +1,5 @@
-### Hi there 👋😄
-
-#### Who I am 👇
-
 ![heather](https://raw.githubusercontent.com/jrdutra/jrdutra/main/header.png)
+
 
 
 
