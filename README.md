@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋😄
+
+#### Who I am 👇
+
+![heather](https://raw.githubusercontent.com/jrdutra/jrdutra/main/header.png)
+
+
 
 <!--
 **jrdutra/jrdutra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
