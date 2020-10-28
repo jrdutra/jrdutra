@@ -9,7 +9,7 @@
 Here are some ideas to get you started:
 -->
 
-#### 🔭 I’m currently working on:
+### 🔭 I’m currently working on:
 
 ##### DroneEnv 
 
@@ -31,7 +31,7 @@ I am currently developing a free video course of [JasperSoft® Studio](https://c
 
 [Access the OcrPDF repository here.](https://github.com/jrdutra/OcrPDF)
 
-#### 🌱 I’m currently learning the following technologies
+### 🌱 I’m currently learning the following technologies
 
 -	Spring Framework with Angular - [Repository link](https://github.com/jrdutra/EstudandoSpring)
 
@@ -41,7 +41,7 @@ I am currently developing a free video course of [JasperSoft® Studio](https://c
 
 - Basic guide for GitHub [Repository here](https://github.com/jrdutra/TrabalhandoComGitHub)
 
-#### 🔨Other Projects and Tools
+### 🔨Other Projects and Tools
 
 ##### OcrPDF
 
