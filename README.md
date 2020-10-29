@@ -33,7 +33,7 @@ I am currently developing a free video course of [JasperSoft® Studio](https://c
 
 ## 🌱 I’m currently learning the following technologies
 
--	Spring Framework with Angular - [Repository link](https://github.com/jrdutra/EstudandoSpring)
+-	Spring Framework with Angular [Repository link](https://github.com/jrdutra/EstudandoSpring)
 
 - Laravel with Vue.js [Repository link](https://github.com/jrdutra/EstudandoLaravel)
 
