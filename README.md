@@ -33,15 +33,17 @@ I am currently developing a free video course of [JasperSoft® Studio](https://c
 
 ## 🌱 I’m currently learning the following technologies
 
--	Spring Framework with Angular [Repository link](https://github.com/jrdutra/EstudandoSpring)
+- Spring Framework with Angular [Repository link](https://github.com/jrdutra/EstudandoSpring)
+
+- Unit Test [Repository link](https://github.com/jrdutra/EstudandoTestesUnitarios)
 
 - Laravel with Vue.js [Repository link](https://github.com/jrdutra/EstudandoLaravel)
 
 - Flutter [Repository here](https://github.com/jrdutra/EstudandoFlutter)
 
-- Basic guide for GitHub [Repository here](https://github.com/jrdutra/TrabalhandoComGitHub)
+- GitHub [Repository here](https://github.com/jrdutra/TrabalhandoComGitHub)
 
-- Guide for Docker [Repository here](https://github.com/jrdutra/EstudandoDocker)
+- Docker [Repository here](https://github.com/jrdutra/EstudandoDocker)
 
 ## 🔨Other Projects and Tools
 
