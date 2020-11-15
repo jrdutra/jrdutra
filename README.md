@@ -64,12 +64,16 @@ Its a simples tool to converte simples texts to [LATEX](https://pt.wikipedia.org
 
 This is a library that implements the queue theory calculus. First you have to enter with the arrives and leaves datas and get parameters as Ws, Wq, Ls, Lq, Pn and P0.
 
+![qtheory](https://raw.githubusercontent.com/jrdutra/qtheory-suport/master/PROGRAMA-COM-DADOS.png)
+
 [You can find this tool here](https://github.com/jrdutra/qtheory)
 
 #### BitTalk
 
 This is a small chat app(inspired in linux terminal) for android and can be downloaded at playstore in this [link](https://play.google.com/store/apps/details?id=com.joaoricardocoredutra.bittalk).
 It's a project that I have developed to learn how to build an application using the Flutter Framework with the Dart language.
+
+![bittalk](https://raw.githubusercontent.com/jrdutra/EstudandoFlutter/master/JamiltonDamasceno/bittalk/btc.png)
 
 [Download the android app](https://play.google.com/store/apps/details?id=com.joaoricardocoredutra.bittalk)
 
