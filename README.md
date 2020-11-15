@@ -29,8 +29,6 @@ We also have as a infrastructre tool the Docker, where we deploy the backend and
 I am currently developing a free video course of [JasperSoft® Studio](https://community.jaspersoft.com/project/jaspersoft-studio) at the Youtube. The [JasperSoft® Studio](https://community.jaspersoft.com/project/jaspersoft-studio) is a free tool to generate reports with any application. You can visit this course [here](https://www.youtube.com/playlist?list=PLydhlxPpuc-SX4VGw7FaR7-aEkm6dChVh).
 
 
-[Access the OcrPDF repository here.](https://github.com/jrdutra/OcrPDF)
-
 ## 🌱 I’m currently learning the following technologies
 
 - Spring Framework with Angular [Repository link](https://github.com/jrdutra/EstudandoSpring)
