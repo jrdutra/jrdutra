@@ -68,7 +68,9 @@ This is a library that implements the queue theory calculus. First you have to e
 
 ![qtheory](https://raw.githubusercontent.com/jrdutra/qtheory-suport/master/PROGRAMA-COM-DADOS.png)
 
-[You can find this tool here](https://github.com/jrdutra/qtheory)
+[You can find the qtheory here](https://github.com/jrdutra/qtheory)
+
+[You can find the graphycal interface here](https://github.com/jrdutra/qtheory-Graphical-Interface)
 
 #### BitTalk
 
