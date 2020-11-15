@@ -58,6 +58,8 @@ This tool uses the [tesseract](https://opensource.google/projects/tesseract) lib
 
 Its a simples tool to converte simples texts to [LATEX](https://pt.wikipedia.org/wiki/LaTeX) codes. You can inform the text you want to set as bold and italic and paste greek characters and by a click, it is in LATEX format.
 
+![screen](https://raw.githubusercontent.com/jrdutra/jrdutra.github.io/master/images/screen.png)
+
 [You can access this tool here](https://jrdutra.github.io/)
 
 #### QTheory
