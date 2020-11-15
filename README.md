@@ -35,6 +35,8 @@ I am currently developing a free video course of [JasperSoft® Studio](https://c
 
 - Spring Framework with Angular [Repository link](https://github.com/jrdutra/EstudandoSpring)
 
+- Angular [Repository Link](https://github.com/jrdutra/angularAvancado)
+
 - Unit Test [Repository link](https://github.com/jrdutra/EstudandoTestesUnitarios)
 
 - Laravel with Vue.js [Repository link](https://github.com/jrdutra/EstudandoLaravel)
