@@ -24,7 +24,7 @@ Latter, I intend to developer some chatrooms and marketplaces, with a user prfil
 The SDGC is a private human resource system from the Municipality of Macaé-RJ. It's writen in Java for the backend application and PHP and Javascript for the frontend application. There we also have the JasperServer as a report server that uses the jasperrepots library to generate the reports of the system.
 We also have as a infrastructre tool the Docker, where we deploy the backend and the reports server.
 
-#### Free JasperSoft® Studio Course
+#### Free JasperSoft® Studio Video Course
 
 I am currently developing a free video course of [JasperSoft® Studio](https://community.jaspersoft.com/project/jaspersoft-studio) at the Youtube. The [JasperSoft® Studio](https://community.jaspersoft.com/project/jaspersoft-studio) is a free tool to generate reports with any application. You can visit this course [here](https://www.youtube.com/playlist?list=PLydhlxPpuc-SX4VGw7FaR7-aEkm6dChVh).
 
