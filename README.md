@@ -64,7 +64,7 @@ Its a simples tool to converte simples texts to [LATEX](https://pt.wikipedia.org
 
 #### QTheory
 
-This is a library that implements the queue theory calculus. First you have to enter with the arrives and leaves datas and get parameters as Ws, Wq, Ls, Lq, Pn and P0.
+This is a **Python3** library that implements the queue theory calculus. First you have to enter with the arrives and leaves datas and get parameters as Ws, Wq, Ls, Lq, Pn and P0.
 You can install the QTheory library at yout python enviroment with the follow command line:
 
 ```shell
