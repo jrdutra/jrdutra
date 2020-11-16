@@ -65,12 +65,26 @@ Its a simples tool to converte simples texts to [LATEX](https://pt.wikipedia.org
 #### QTheory
 
 This is a library that implements the queue theory calculus. First you have to enter with the arrives and leaves datas and get parameters as Ws, Wq, Ls, Lq, Pn and P0.
+You can install the QTheory library at yout python enviroment with the follow command line:
+
+```shell
+pip install qtheory
+```
+or
+
+```shell
+pip3 install qtheory
+```
+There is a graphicall interface designed to use the QTheroy library.
 
 ![qtheory](https://raw.githubusercontent.com/jrdutra/qtheory-suport/master/PROGRAMA-COM-DADOS.png)
 
 [You can find the qtheory here](https://github.com/jrdutra/qtheory)
 
 [You can find the graphycal interface here](https://github.com/jrdutra/qtheory-Graphical-Interface)
+
+This library was published as a work at SBPO 2020 (Brazilian Symposium on Operational Research).
+You can watch the presentation video at this [link](https://proceedings.science/sbpo-2020/papers/biblioteca-de-teoria-das-filas-para-a-linguagem-de-programacao-python).
 
 #### BitTalk
 
@@ -79,7 +93,7 @@ It's a project that I have developed to learn how to build an application using 
 
 ![bittalk](https://raw.githubusercontent.com/jrdutra/EstudandoFlutter/master/JamiltonDamasceno/bittalk/btc.png)
 
-[Download the android app](https://play.google.com/store/apps/details?id=com.joaoricardocoredutra.bittalk)
+[Install the android app at Google Play](https://play.google.com/store/apps/details?id=com.joaoricardocoredutra.bittalk)
 
 [Go to the repository](https://github.com/jrdutra/EstudandoFlutter/tree/master/JamiltonDamasceno/bittalk)
 
