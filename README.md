@@ -1,1 +1,8 @@
-Tenho que atualizar aqui ainda... =)
+Olá, meu nome é João Dutra, e eu sou um programador apaixonado desde os meus 15 anos de idade. Tudo começou comingo estudando Pascal através de um livro e escrevendo códigos no papel, apenas para aprender e praticar. Depois disso, comecei a trabalhar com Visual Basic 6 para criar interfaces gráficas simples.
+Mais tarde, decidi me aprofundar em linguagens mais avançadas, como C e C++. Foi quando consegui uma bolsa de iniciação científica na área de engenharia de petróleo, o que me permitiu desenvolver ainda mais meus conhecimentos nessa área.
+
+Mas a minha jornada acadêmica foi um pouco turbulenta. Cursei dois anos de Licenciatura em Física, mas acabei desistindo. Em seguida, optei por Engenharia de Petróleo, onde fiquei por mais 4 anos, mas também não consegui concluir o curso.
+
+Finalmente, em Engenharia da Computação, consegui me formar em 2020. Foi durante esse curso que aprendi Java e comecei a trabalhar com essa linguagem em 2018, quando fui contratado pela Prefeitura de Macaé. Lá, eu trabalhava no desenvolvimento, manutenção e suporte aos usuários do sistema de recursos humanos da prefeitura, usando bancos relacionais como MySQL e gerando relatórios com Jasper Reports. Também aprendi a trabalhar com webservices, PHP e JavaScript puro para desenvolver a parte frontal da aplicação.
+
+Atualmente, trabalho para a NTT DATA, desenvolvendo microserviços com JAX-RS e outras tecnologias Java para o cliente Bradesco. Neste trabalho, estou ganhando experiência com o banco de dados MongoDB e também desenvolvendo minhas habilidades de liderança com profissionais mais juniores. Estou animado com o futuro e ansioso para continuar aprendendo e crescendo na minha carreira de programador.
